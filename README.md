@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi, I'm Kirsten Curtiss
 
-<!--
-**KCurtiss1/KCurtiss1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Accounting student graduating **May 2026**  
+📊 Interested in **tax analysis, financial analysis, and business intelligence**
 
-Here are some ideas to get you started:
+I enjoy using data to analyze business performance, identify trends, and support strategic decision-making. My experience combines **corporate management experience** with **data analytics and accounting skills**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-orange)
+![Excel](https://img.shields.io/badge/Excel-Advanced-green)
+![Google Data Analytics](https://img.shields.io/badge/Google-Data%20Analytics%20Certified-red)
+![Microsoft Excel Expert](https://img.shields.io/badge/Microsoft-Excel%20Expert%20365-darkgreen)
+![SQL](https://img.shields.io/badge/SQL-Database-blue)
+
+---
+
+## About Me
+
+- Accounting major at the **University of Central Florida**
+- **3 years of corporate management experience**
+- Experienced in building **data visualizations and dashboards**
+
+---
+
+## Skills
+
+**Data Analytics & Visualization**
+- Tableau
+- SQL
+- Data analysis and dashboard development
+
+**Data Tools**
+- Microsoft Excel (Advanced)
+- Data cleaning and transformation
+- Business analytics
+
+**Accounting & Business**
+- Tax Analysis
+- Financial analysis
+- Business operations
+- Data-driven decision making
+
+---
+
+## Certifications
+
+- Google Data Analytics Professional Certificate
+- Microsoft Excel Expert (Microsoft 365)
+
+---
+
+## Featured Projects
+
+### E-Commerce Sales Tax Nexus & Profitability Dashboard
+Tableau dashboard analyzing sales tax obligations and profitability across states using simulated e-commerce sales data.
+
+Tools used:
+- Tableau
+- Excel
+- Data analytics
+
+---
+
+## Connect With Me
+
+[LinkedIn](linkedin.com/in/kirsten-curtiss/)
+
+---
