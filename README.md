@@ -62,6 +62,6 @@ Tools used:
 
 ## Connect With Me
 
-[LinkedIn](linkedin.com/in/kirsten-curtiss)
+[LinkedIn](https://linkedin.com/in/kirsten-curtiss)
 
 ---
